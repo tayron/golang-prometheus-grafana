@@ -1,5 +1,7 @@
 # Monitorando sua aplicanção em Golang com Prometheus e Grafana
 
+![Imagem do Grafana](print.png)
+
 [Artigo](https://medium.com/@alcbotta/monitoring-you-golang-server-with-prometheus-and-grafana-97e64bb1d0e9)
 
 Aplicação simples onde é usado Proetheus para coletar inforações da aplicação e usar o Grafana para visualizar as inforações coletadas,
